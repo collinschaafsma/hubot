@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Lil-Bot
+web: bin/hubot -a campfire -n asshat
